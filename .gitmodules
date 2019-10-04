@@ -1,0 +1,10 @@
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/hugo-refresh"]
+	path = themes/hugo-refresh
+	url = https://github.com/PippoRJ/hugo-refresh.git
+[submodule "public"]
+	path = public
+	url = git@github.com:youngtard/youngtard.github.io.git
+	branch = master
