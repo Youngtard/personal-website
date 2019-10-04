@@ -3,7 +3,7 @@ title: "Learning how to code"
 summary: "A year of learning how to code"
 date: 2018-07-02
 hideLastModified: true
-draft: true
+# draft: true
 tags: ["Code", "Programming", "Learn"]
 
 ---
