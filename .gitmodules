@@ -8,3 +8,6 @@
 	path = public
 	url = git@github.com:youngtard/youngtard.github.io.git
 	branch = master
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
